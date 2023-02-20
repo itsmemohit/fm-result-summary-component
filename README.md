@@ -22,7 +22,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ### Links
 
 - Solution URL: [Github repo](https://github.com/itsmemohit/fm-result-summary-component)
-- Live Site URL: [Netlify live site url](https://peaceful-stroopwafel-16745e.netlify.app/)
+- Live Site URL: [Netlify live site url](https://unique-kitten-9e0d13.netlify.app/)
 
 ## My process
 
